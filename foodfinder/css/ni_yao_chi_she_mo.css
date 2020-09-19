@@ -1,0 +1,53 @@
+div.box {
+  position: relative;
+}
+
+img {
+  position: absolute;
+}
+
+div.opacity {
+  width: 600px;
+  height: 315px;
+  background-color: rgba(0, 0, 0, .5);
+  position: absolute;
+}
+
+div.words_box {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.words {
+  display: block;
+}
+
+h1 , h2 , h3 {
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  line-height: 100px;
+}
+
+h3 {
+  visibility: hidden;
+}
+
+a {
+  color: white;
+}
+
+input.select {
+  width: 80px;
+  height: 40px;
+  position: absolute;
+  bottom: 15px;
+  right: 50px;
+  background-color: white;
+  border: 3px solid black;
+  font-size: 20pt;
+}
