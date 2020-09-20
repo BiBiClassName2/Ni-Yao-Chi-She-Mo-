@@ -1,3 +1,5 @@
+// 歡迎在下方自行新增物件:)
+
 var foods = {
   food0 : {name: '麥當勞',href: 'https://goo.gl/maps/z1PSd3uFtSt4YvbJ7'},
   food1 : {name: '肯德基',href: 'https://goo.gl/maps/MUzAbfGoXZWkgSXV7'},
