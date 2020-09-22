@@ -12,6 +12,7 @@ var foods = {
   food8 : {name: 'Subway 南京復興店',href: 'https://g.page/subway_70616?share'},
   food9 : {name: '丘彼特早午餐遼寧店',href: 'https://goo.gl/maps/HSdSGa2xHwFA9Ztc8'},
   food10 : {name: '慶城海南雞飯',href: 'https://goo.gl/maps/ye3ctPXYdqC2GW6Q9'},
+  food11 : {name: '飯飯堂南京復興店,href: 'https://maps.app.goo.gl/wLo65YmzNMSL158s5'},
 }
 
 var allfoods = [];
